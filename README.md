@@ -18,19 +18,17 @@ AMF 과정에서는 줌 대신 게더타운과 온라인 보드를 활용합니�
 <br>
 
 
-### 2. 실습용 PC Spec
->  - cpu : 최소 i5 (i7 권장), 메모리 : 8G 이상
->  - 네트워크 제한이 없어야 함 (고객사 보안에 의한 N/W 제한이 있을 경우, 개인 또는 회사 PC 대여 요망)   
-
-<br> 
-   
-### 3. 개발용 Tool 설치  
+### 2. PC 및 Tool 준비
+- cpu : 최소 i5 (i7 권장), 메모리 : 8G 이상
+- 네트워크 제한이 없어야 함 (고객사 보안에 의한 N/W 제한이 있을 경우, 개인 또는 회사 PC 대여 요망)   
+<br>
+- **개발용 Tool 설치**
 개인용 PC에 설치하고 싶은 경우, 아래 내용을 설치하시면 됩니다.   
 개인용 PC설치 도중, 문제가 발생할 경우 각 과정별 담당자에게 문의하시기 바랍니다.)
-> - [MSA 설계 도구 설치](https://github.com/AMF-skcc/AMF2022/blob/main/msa/about-msa.md#...)
-> - Back-End 개발 도구 설치
-> - Front-End 개발 도구 설치
-> - DevOps 실습 도구 설치 
+  > - [MSA 설계 도구 설치](https://github.com/AMF-skcc/AMF2022/blob/main/msa/about-msa.md#...)
+  > - Back-End 개발 도구 설치
+  > - Front-End 개발 도구 설치
+  > - DevOps 실습 도구 설치 
    
 <br>
 

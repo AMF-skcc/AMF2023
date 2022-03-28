@@ -12,6 +12,7 @@
 | STS | 4.9.0 | 이클립스 기반 스프링 애플리케이션 개발 도구 | https://spring.io/tools |
 | Lombok | 1.18.20 | 자바 코드 경량화 라이브러리 | http://projectlombok.org/download.html |
 | Git | 2.31.1 | 소스 형상 관리 도구 | http://git-scm.com/downloads |
+| Maven | 3.8.5 | 애플리케이션 빌드 도구 | https://community.chocolatey.org/packages/maven |
 | Docker | 20.10.5 | 애플리케이션 컨테이너 관리 도구 | http://docker.com/products/docker-desktop |
 | MariaDB | 10.5.8 | 관계형 데이터 베이스 | https://mariadb.com/downloads |
 

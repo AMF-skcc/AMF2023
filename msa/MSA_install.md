@@ -46,6 +46,7 @@
 - 설치 명령어 (Windows PowerShell 에서 아래 명령어 수행)
   - choco install maven
 - 설치 확인 : mvn --version
+![Maven버전 확인](https://user-images.githubusercontent.com/88864523/160330826-6e0c4dfe-6f16-4387-883b-b747ab1e6851.png)
 - 참고 : 삭제 명령어는 choco uninstall maven
 
 ## Docker

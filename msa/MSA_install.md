@@ -12,6 +12,7 @@
 | STS | 4.9.0 | 이클립스 기반 스프링 애플리케이션 개발 도구 | https://spring.io/tools |
 | Lombok | 1.18.20 | 자바 코드 경량화 라이브러리 | http://projectlombok.org/download.html |
 | Git | 2.31.1 | 소스 형상 관리 도구 | http://git-scm.com/downloads |
+| Maven | 3.8.5 | 애플리케이션 빌드 도구 | https://community.chocolatey.org/packages/maven |
 | Docker | 20.10.5 | 애플리케이션 컨테이너 관리 도구 | http://docker.com/products/docker-desktop |
 | MariaDB | 10.5.8 | 관계형 데이터 베이스 | https://mariadb.com/downloads |
 
@@ -40,6 +41,13 @@
 ## Git
 - 다운로드 사이트 : http://git-scm.com/downloads
 ![Slide10](https://user-images.githubusercontent.com/62231786/123755229-a8c57780-d8f6-11eb-9b27-6712ac8794ea.png)
+
+## Maven
+- 설치 명령어 (Windows PowerShell 에서 아래 명령어 수행)
+  - choco install maven
+- 설치 확인 : mvn --version
+![Maven버전 확인](https://user-images.githubusercontent.com/88864523/160330826-6e0c4dfe-6f16-4387-883b-b747ab1e6851.png)
+- 참고 : 삭제 명령어는 choco uninstall maven
 
 ## Docker
 - 다운로드 사이트 : http://docker.com/products/docker-desktop

@@ -54,4 +54,4 @@
   - 공식 산출물 공간은 myShare를 사용하여 주세요~
 
 ### 관련 도구 설치
-> - [ MSA 관련 도구 설치 ](./msa/MSA_install.md/) : JDK, STS, Lombok, Git, Docker, MariaDB 등
+> - [ MSA 관련 도구 설치 ](https://github.com/AMF-skcc/AMF2022/blob/main/msa/MSA_install.md#...) : JDK, STS, Lombok, Git, Maven, Docker, MariaDB 등

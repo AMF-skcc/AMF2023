@@ -42,6 +42,11 @@
 - 다운로드 사이트 : http://git-scm.com/downloads
 ![Slide10](https://user-images.githubusercontent.com/62231786/123755229-a8c57780-d8f6-11eb-9b27-6712ac8794ea.png)
 
+## Maven
+- 설치 명령어 (Windows PowerShell 에서 아래 명령어 수행)
+  - choco install maven
+- 설치 확인 : mvn --version
+
 ## Docker
 - 다운로드 사이트 : http://docker.com/products/docker-desktop
 ![Slide11](https://user-images.githubusercontent.com/62231786/123755221-a7944a80-d8f6-11eb-93ef-2c61a124768e.png)

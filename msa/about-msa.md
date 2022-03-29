@@ -18,6 +18,13 @@
 <br>   
 
 
+### 5일차 (오후 1시간 정도) 
+#### Application CI (ZCP설정 & App.소스통합)
+- 학습목표 : 조별, 개인별 개발한 서비스를 Cloud ZCP 환경에 배포를 위해 저장소에 저장/관리할 수 있다.
+- 학습자료 : [...](...)
+<br> 
+
+
 # Table of contents
 - [Table of contents](#table-of-contents)
 - [애플리케이션 샘플](#애플리케이션-샘플)

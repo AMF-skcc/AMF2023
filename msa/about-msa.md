@@ -1,15 +1,19 @@
 
 ## MSA 과정 학습 목표 및 자료 
 ### 1일차 
-#### OOO
-- 학습목표 : 
+#### MSA 전략적 설계
+- 학습목표 : 마이크로서비스 식별 방법, DDD 및 전술적 설계를 설명할 수 있다.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(마이크로서비스 어떻게 나눌 것인가?, DDD중심의 전략적 설계, 이벤트 스토밍 기법을 활용한 마이크로서비스 도출,<br> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;마이크로서비스 적용으로 발생하는 문제와 해결 방법 등)
 - 학습자료 : [...](...)
 <br>   
 
 
 ### 2일차 
-#### OOO
-- 학습목표 : 
+#### 마이크로서비스 도출 워크샵 & 서비스 스펙 정의
+- 학습목표 : 마이크로서비스 도출 방법을 설명할 수 있다. DDD 및 전술적 설계를 설명할 수 있다.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;이벤트 스토밍 기법을 활용해서 마이크로서비스를 도출할 수 있다.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;마이크로서비스별 상세 스펙을 정의할 수 있다.
 - 학습자료 : [...](...)
 <br>   
 

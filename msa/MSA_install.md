@@ -18,13 +18,17 @@
 
 ## Homebrew 설치 (Mac 사용자)
 - 설치 명령어 (터미널에서 아래 명령어 수행)
-  - ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null
-- 설치 확인 : brew --version
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+- 설치 확인 : `brew --version`
 
 ## Chocolatey 설치 (Windows 사용자)
 - 설치 명령어 (Windows PowerShell 에서 아래 명령어 수행)
-  - Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
-- 설치 확인 : choco
+```
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+```
+- 설치 확인 : `choco`
 
 ## JDK
 - 다운로드 사이트 : https://adoptopenjdk.net/

@@ -4,14 +4,15 @@
 * Mac 사용자는 사전에 Homebrew 설치가 필요합니다.
 * Windows 사용자는 사전에 Chocolatey 설치가 필요합니다.
 
+   ***&#8251;&nbsp;&nbsp;Homebrew(Mac사용자), Chocolatey(Windows사용자), Maven, Git  이미 설치된 경우 추가 설치 필요 없음***
+
 <br>
 
 ## 설치 SW
 | SW 명 | 버전 | 설명 | 다운로드 URL |
 |---|:---:|:---:|:---:|
-| Maven | 3.8.x 이상 | 애플리케이션 빌드 도구 | https://community.chocolatey.org/packages/maven |
+| Maven | 3.5.x 이상 | 애플리케이션 빌드 도구 | https://community.chocolatey.org/packages/maven |
 | Git | 2.2.x 이상 | 소스 형상 관리 도구 | http://git-scm.com/downloads |
-| Docker | 20.10.5 | 애플리케이션 컨테이너 관리 도구 | http://docker.com/products/docker-desktop |
 
 <br>
 
@@ -39,7 +40,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
     ```
     choco install maven
     ```
-  - 설치 확인 : `mvn --version`
+  - 설치 확인 : `mvn -version`
   - [참고] 삭제 명령어는 `choco uninstall maven`
 
 <br>
@@ -57,9 +58,3 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ## Git 설치
 - 다운로드 사이트 : http://git-scm.com/downloads
 ![Slide10](https://user-images.githubusercontent.com/62231786/123755229-a8c57780-d8f6-11eb-9b27-6712ac8794ea.png)
-
-<br>
-
-## Docker 설치
-- 다운로드 사이트 : http://docker.com/products/docker-desktop
-![Slide11](https://user-images.githubusercontent.com/62231786/123755221-a7944a80-d8f6-11eb-93ef-2c61a124768e.png)

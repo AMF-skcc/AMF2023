@@ -58,9 +58,9 @@ ZOOM을 사용하지 않으며(단순한 강의식 화상 수업이 아님), 메
 
 ## 참고 자료 
 
-#### [ Agile ](./agile/about-agile.md/) 
+#### [ Agile ](./agile/readme.md/) 
 
-#### [ MSA 설계](./msa/msa.md/) 
+#### [ MSA 설계](./msa/readme.md/) 
 
 -  Back-end 개발 : 업체 교안 참조
 -  Front-end 개발 : 업체 교안 참조 

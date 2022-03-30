@@ -34,7 +34,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 <br>
 
-## Maven 설치 (이미 설치된 경우 추가 설치 필요 없음)
+## Maven 설치
 - **Windows 사용자**
   - 설치 명령어 (Windows PowerShell 에서 아래 명령어 수행)
     ```

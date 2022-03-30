@@ -40,7 +40,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
     choco install maven
     ```
   - 설치 확인 : `mvn --version`
-  - [참고] 삭제 명령어는 `choco uninstall maven
+  - [참고] 삭제 명령어는 `choco uninstall maven`
 
 <br>
 

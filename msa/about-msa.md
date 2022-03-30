@@ -21,7 +21,8 @@
 ### 5일차 (오후 1시간 정도) 
 #### Application CI (ZCP설정 & App.소스통합)
 - 학습목표 : 조별, 개인별 개발한 서비스를 Cloud ZCP 환경에 배포를 위해 저장소에 저장/관리할 수 있다.
-- 학습자료 : [[5일차]_MSA_Application CI_v1.pdf](...)
+- 학습자료 : [5일차]_MSA_Application CI_v1.pdf
+- [ 관련 도구 설치 ](https://github.com/AMF-skcc/AMF2022/blob/main/msa/MSA_install.md#...) : Maven, Git, Docker 등 (교육전 설치 필수)
 <br> 
 
 
@@ -31,7 +32,6 @@
   - [마이크로서비스](#마이크로서비스)
   - [모놀리식](#모놀리식)
     - [miro 사용 준비](#miro-사용-준비)
-    - [관련 도구 설치](#관련-도구-설치)
 
 # 애플리케이션 샘플
 - https://github.com/AMF-skcc/amf-demo
@@ -63,6 +63,3 @@
 
 - miro 보드는 여러분의 Working 활동을 온라인에서 Support하기 위한 도구이며 공식 산출물 공간은 아닙니다.
   - 공식 산출물 공간은 myShare를 사용하여 주세요~
-
-### 관련 도구 설치
-> - [ MSA 관련 도구 설치 ](https://github.com/AMF-skcc/AMF2022/blob/main/msa/MSA_install.md#...) : JDK, STS, Lombok, Git, Maven, Docker, MariaDB 등

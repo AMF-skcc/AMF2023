@@ -52,14 +52,14 @@
 
 #### 게더타운이란 ? 
 - 학교/ 사무실/ 교육장/ 컨퍼런스 등 가상의 공간을 구현하여, 다양한 형태의 협업과 소통이 가능하며 오프라인과 유사한 사용자 경험을 할 수 있다.
-  - [ 사례1 ] 게더타운 화면 
+  - 게더타운 화면 
   ![](/images/gathertown-image2.png)
   
-  - [ 사례2 ] Agile Korea Conference 2021 
+  - Agile Korea Conference 2021 
   ![](/images/gathertown-image1.png)
 
   
-- [사용법 알아보기](./게더타운사용법.md/)
+- [사용법 알아보기](../게더타운사용법.md/)
 
 <br>
 

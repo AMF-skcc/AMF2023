@@ -58,6 +58,8 @@ ZOOM을 사용하지 않으며(단순한 강의식 화상 수업이 아님), 메
 
 ## 참고 자료 
 
+#### [ 교육교재(https://asq.kr/CloudAMF22) ](https://drive.google.com/drive/folders/1DlwKzDt24yvbX7vJ3PO2ndIvQpsXWW67)
+
 #### [ Agile ](./agile/readme.md/) 
 
 #### [ MSA 설계](./msa/readme.md/) 

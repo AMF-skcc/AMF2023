@@ -45,7 +45,7 @@ ZOOM을 사용하지 않으며(단순한 강의식 화상 수업이 아님), 메
 
 ## Time Table
 
-![](/images/AMF-TimeTable-2022-v1.2.png)   
+![23년 AMF Time Table](https://user-images.githubusercontent.com/61259324/231052330-d30d3579-a3fe-492b-ba76-55a7feb22166.png)   
 [[ _커리큘럼 상세 보기_ ]](./AMF커리큘럼-2022.md)
 
 ---

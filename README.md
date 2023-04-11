@@ -46,20 +46,18 @@ ZOOM을 사용하지 않으며(단순한 강의식 화상 수업이 아님), 메
 ## Time Table
 
 ![23년 AMF Time Table](https://user-images.githubusercontent.com/61259324/231052330-d30d3579-a3fe-492b-ba76-55a7feb22166.png)   
-[[ _커리큘럼 상세 보기_ ]](./AMF커리큘럼-2022.md)
+
 
 ---
 
 ## 참고 자료 
 
-#### [ 교육교재(https://asq.kr/CloudAMF22) ](https://drive.google.com/drive/folders/1DlwKzDt24yvbX7vJ3PO2ndIvQpsXWW67)
+#### [ 교육교재(https://asq.kr/CloudAMF22) ](https://drive.google.com/drive/folders/1znRwF97fGQcA0fMMH2Aj2PUYgT6KyPTJ)
 
 #### [ Agile ](./agile/readme.md/) 
 
 #### [ MSA 설계](./msa/readme.md/) 
 
--  Back-end 개발 : 업체 교안 참조
--  Front-end 개발 : 업체 교안 참조 
 
 #### [ ZCP ](./cloud-zcp/readme.md/) 
 
